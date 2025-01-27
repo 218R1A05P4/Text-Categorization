@@ -1,0 +1,8 @@
+### abstract ###
+Whole-genome transporter analyses have been conducted on 141 organisms whose complete genome sequences are available.
+For each organism, the complete set of membrane transport systems was identified with predicted functions, and classified into protein families based on the transporter classification system.
+Organisms with larger genome sizes generally possessed a relatively greater number of transport systems.
+In prokaryotes and unicellular eukaryotes, the significant factor in the increase in transporter content with genome size was a greater diversity of transporter types.
+In contrast, in multicellular eukaryotes, greater number of paralogs in specific transporter families was the more important factor in the increase in transporter content with genome size.
+Both eukaryotic and prokaryotic intracellular pathogens and endosymbionts exhibited markedly limited transport capabilities.
+Hierarchical clustering of phylogenetic profiles of transporter families, derived from the presence or absence of a certain transporter family, showed that clustering patterns of organisms were correlated to both their evolutionary history and their overall physiology and lifestyles.

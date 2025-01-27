@@ -1,0 +1,15 @@
+### abstract ###
+Identification of single nucleotide polymorphisms and mutations is important for the discovery of genetic predisposition to complex diseases.
+PCR resequencing is the method of choice for de novo SNP discovery.
+However, manual curation of putative SNPs has been a major bottleneck in the application of this method to high-throughput screening.
+Therefore it is critical to develop a more sensitive and accurate computational method for automated SNP detection.
+We developed a software tool, SNPdetector, for automated identification of SNPs and mutations in fluorescence-based resequencing reads.
+SNPdetector was designed to model the process of human visual inspection and has a very low false positive and false negative rate.
+We demonstrate the superior performance of SNPdetector in SNP and mutation analysis by comparing its results with those derived by human inspection, PolyPhred, and independent genotype assays in three large-scale investigations.
+The first study identified and validated inter- and intra-subspecies variations in 4,650 traces of 25 inbred mouse strains that belong to either the Mus musculus species or the M. spretus species.
+Unexpected heterozgyosity in CAST/Ei strain was observed in two out of 1,167 mouse SNPs.
+The second study identified 11,241 candidate SNPs in five ENCODE regions of the human genome covering 2.5 Mb of genomic sequence.
+Approximately 50 percent of the candidate SNPs were selected for experimental genotyping; the validation rate exceeded 95 percent.
+The third study detected ENU-induced mutations in 64,896 traces of 1,236 zebra fish.
+Our analysis of three large and diverse test datasets demonstrated that SNPdetector is an effective tool for genome-scale research and for large-sample clinical studies.
+SNPdetector runs on Unix/Linux platform and is available publicly .

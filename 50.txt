@@ -1,0 +1,8 @@
+### abstract ###
+Quasispecies are clouds of genotypes that appear in a population at mutation selection balance.
+This concept has recently attracted the attention of virologists, because many RNA viruses appear to generate high levels of genetic variation that may enhance the evolution of drug resistance and immune escape.
+The literature on these important evolutionary processes is, however, quite challenging.
+Here we use simple models to link mutation selection balance theory to the most novel property of quasispecies: the error threshold a mutation rate below which populations equilibrate in a traditional mutation selection balance and above which the population experiences an error catastrophe, that is, the loss of the favored genotype through frequent deleterious mutations.
+These models show that a single fitness landscape may contain multiple, hierarchically organized error thresholds and that an error threshold is affected by the extent of back mutation and redundancy in the genotype-to-phenotype map.
+Importantly, an error threshold is distinct from an extinction threshold, which is the complete loss of the population through lethal mutations.
+Based on this framework, we argue that the lethal mutagenesis of a viral infection by mutation-inducing drugs is not a true error catastophe, but is an extinction catastrophe.
